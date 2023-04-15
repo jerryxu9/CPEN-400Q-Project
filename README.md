@@ -38,5 +38,6 @@ By: Jerry Xu, Nicholas Ng, Matthew Stefansson, Ying Qi Wen
 ### Ying Qi Wen
 - Worked on first sampling method with tutorial in [1]
 - Implemented building the kernel and solving the RFF regression problem
+- Implemented the experiments and produced the graphs.
 
 [1] https://pennylane.ai/qml/demos/tutorial_expressivity_fourier_series.html
