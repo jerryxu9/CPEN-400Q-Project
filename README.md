@@ -10,7 +10,7 @@ By: Jerry Xu, Nicholas Ng, Matthew Stefansson, Ying Qi Wen
 
 ## Instructions
 1. To run our code make sure you have the Requirements and Dependencies installed above
-  - In our demo and experiment files we attempt to pip install the required packages if you click run all but it is better if you install them yourself
++ In our demo and experiment files we attempt to pip install the required packages if you click run all but it is better if you install them yourself
 2. Finally to run the demo and experiment jupyter notebooks click the run all button
 
 ## File explanations
