@@ -9,9 +9,9 @@ By: Jerry Xu, Nicholas Ng, Matthew Stefansson, Ying Qi Wen
 - Treelib
 
 ## Instructions
-- To run our code make sure you have the Requirements and Dependencies installed above
+1. To run our code make sure you have the Requirements and Dependencies installed above
 - In our demo and experiment files we attempt to pip install the required packages if you click run all but it is better if you install them yourself
-- Finally to run the demo and experiment jupyter notebooks click the run all button
+2. Finally to run the demo and experiment jupyter notebooks click the run all button
 
 ## File explanations
 - The demo jupyter notebook is what we used in our presentation demo
