@@ -8,12 +8,12 @@ By: Jerry Xu, Nicholas Ng, Matthew Stefansson, Ying Qi Wen
 - Sklearn
 - Treelib
 
-## Instructions
-1. To run our code make sure you have the Requirements and Dependencies installed above
-   - In our demo and experiment files we attempt to pip install the required packages if you click run all but it is better if you install them yourself
-2. Finally to run the demo and experiment jupyter notebooks click the run all button
+## Instructions to Run
+1. Install the requirements and dependencies listed above
+   - Installation is attempted by pip installing inside code, but it is better to ensure they are installed beforehand
+2. Click the run all button to run the demo and experiment jupyter notebooks and generate graphs
 
-## File explanations
+## File Explanations
 - The demo jupyter notebook is what we used in our presentation demo
 - The experiment jupyter notebook is a fully commented and fleshed out example that reproduces the paper that was assigned to our team
 - The test jupyter notebook is scratch work that lead to a fully fleshed out experiment jupyter notebook.
